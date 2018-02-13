@@ -1,4 +1,4 @@
 web: npm start
 worker:  node -e "setInterval(function(){console.log('working')}, 1000);"
 clock:  node -e "setInterval(function(){console.log('tick')}, 1000);"
-release: echo "You are learning heroku (: "
+release: echo "You are learning Heroku (: "
